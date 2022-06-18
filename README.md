@@ -2,7 +2,7 @@
 - 👀 I’m interested in @Data Analysis
 - 🌱 I’m currently learning @machine learning
 - 💞️ I’m looking to collaborate on @github repos & stackoverflow
-- 📫 How to reach me www.linkedin.com/in/ajit-nayak
+- 📫 How to reach me www.linkedin.com/in/ajit-nayak-350977221
 
 <!---
 ajitnayak249/ajitnayak249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
